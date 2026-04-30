@@ -1,5 +1,3 @@
-# JSePHP
-
 # 📘 Sistema de Escola — JavaScript & PHP
 
 Este projeto demonstra conceitos fundamentais de **Programação Orientada a Objetos (POO)** utilizando duas linguagens: **JavaScript** e **PHP**.
